@@ -6,10 +6,10 @@ An analysis of 400+ responses to this meme:
 
 ## Files
 
-- **posts.tsv** - Raw posts with source URLs and text
 - **sources.tsv** - Original source posts that prompted replies.
+- **posts.tsv** - Replies to be analyzed, with source URLs and text
 - **taxonomy.json** - Hierarchical tag system
-- **tagged_posts.json** - Posts tagged with interventions
+- **tagged_posts.json** - Tagged posts
 - **tag_counts.csv** - All tags ranked by frequency (with hierarchy rollup)
 
 ## Key Findings
