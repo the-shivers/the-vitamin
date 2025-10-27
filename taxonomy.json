@@ -1,0 +1,498 @@
+[
+  {"slug": "supplements", "name": "Supplements", "parent": null, "level": 1},
+  {"slug": "drugs-medical", "name": "Drugs & Medical Interventions", "parent": null, "level": 1},
+  {"slug": "diet", "name": "Diet", "parent": null, "level": 1},
+  {"slug": "lifestyle", "name": "Lifestyle", "parent": null, "level": 1},
+
+  {"slug": "vitamins", "name": "Vitamins", "parent": "supplements", "level": 2},
+  {"slug": "minerals", "name": "Minerals", "parent": "supplements", "level": 2},
+  {"slug": "amino-acids", "name": "Amino Acids & Derivatives", "parent": "supplements", "level": 2},
+  {"slug": "fatty-acids", "name": "Fatty Acids", "parent": "supplements", "level": 2},
+  {"slug": "herbal-plant", "name": "Herbal & Plant-Based", "parent": "supplements", "level": 2},
+  {"slug": "enzymes-proteins", "name": "Enzymes & Proteins", "parent": "supplements", "level": 2},
+  {"slug": "other-supplements", "name": "Other Supplements", "parent": "supplements", "level": 2},
+
+  {"slug": "prescription-meds", "name": "Prescription Medications", "parent": "drugs-medical", "level": 2},
+  {"slug": "otc-meds", "name": "OTC Medications", "parent": "drugs-medical", "level": 2},
+  {"slug": "recreational-illicit", "name": "Recreational/Illicit Substances", "parent": "drugs-medical", "level": 2},
+  {"slug": "diagnoses", "name": "Medical Diagnoses", "parent": "drugs-medical", "level": 2},
+  {"slug": "procedures-devices", "name": "Medical Procedures & Devices", "parent": "drugs-medical", "level": 2},
+
+  {"slug": "foods-add", "name": "Foods & Nutrients to Add", "parent": "diet", "level": 2},
+  {"slug": "foods-eliminate", "name": "Dietary Elimination", "parent": "diet", "level": 2},
+  {"slug": "eating-patterns", "name": "Eating Patterns", "parent": "diet", "level": 2},
+
+  {"slug": "sleep", "name": "Sleep", "parent": "lifestyle", "level": 2},
+  {"slug": "exercise-movement", "name": "Exercise & Movement", "parent": "lifestyle", "level": 2},
+  {"slug": "mental-health", "name": "Mental Health Practices", "parent": "lifestyle", "level": 2},
+  {"slug": "social-relationships", "name": "Social & Relationships", "parent": "lifestyle", "level": 2},
+  {"slug": "environment-location", "name": "Environment & Location", "parent": "lifestyle", "level": 2},
+  {"slug": "substance-changes", "name": "Substance Use Changes", "parent": "lifestyle", "level": 2},
+
+  {"slug": "vitamin-d", "name": "Vitamin D", "parent": "vitamins", "level": 3},
+  {"slug": "vitamin-b", "name": "Vitamin B (unspecified)", "parent": "vitamins", "level": 3},
+  {"slug": "vitamin-b12", "name": "Vitamin B12", "parent": "vitamins", "level": 3},
+  {"slug": "vitamin-b6", "name": "Vitamin B6", "parent": "vitamins", "level": 3},
+  {"slug": "vitamin-b-complex", "name": "B-Complex", "parent": "vitamins", "level": 3},
+  {"slug": "folate", "name": "Folate/Folic Acid", "parent": "vitamins", "level": 3},
+  {"slug": "thiamine", "name": "Thiamine (B1)", "parent": "vitamins", "level": 3},
+  {"slug": "riboflavin", "name": "Riboflavin (B2)", "parent": "vitamins", "level": 3},
+  {"slug": "biotin", "name": "Biotin", "parent": "vitamins", "level": 3},
+  {"slug": "vitamin-c", "name": "Vitamin C", "parent": "vitamins", "level": 3},
+  {"slug": "vitamin-a", "name": "Vitamin A", "parent": "vitamins", "level": 3},
+  {"slug": "vitamin-k", "name": "Vitamin K", "parent": "vitamins", "level": 3},
+  {"slug": "vitamin-e", "name": "Vitamin E", "parent": "vitamins", "level": 3},
+  {"slug": "multivitamin", "name": "Multivitamin", "parent": "vitamins", "level": 3},
+
+  {"slug": "magnesium", "name": "Magnesium", "parent": "minerals", "level": 3},
+  {"slug": "iron", "name": "Iron", "parent": "minerals", "level": 3},
+  {"slug": "zinc", "name": "Zinc", "parent": "minerals", "level": 3},
+  {"slug": "potassium", "name": "Potassium", "parent": "minerals", "level": 3},
+  {"slug": "calcium", "name": "Calcium", "parent": "minerals", "level": 3},
+  {"slug": "selenium", "name": "Selenium", "parent": "minerals", "level": 3},
+  {"slug": "iodine", "name": "Iodine", "parent": "minerals", "level": 3},
+  {"slug": "sodium-salt", "name": "Sodium/Salt", "parent": "minerals", "level": 3},
+  {"slug": "lithium", "name": "Lithium (microdose)", "parent": "minerals", "level": 3},
+  {"slug": "electrolytes", "name": "Electrolytes", "parent": "minerals", "level": 3},
+
+  {"slug": "creatine", "name": "Creatine", "parent": "amino-acids", "level": 3},
+  {"slug": "nac", "name": "NAC (N-Acetyl Cysteine)", "parent": "amino-acids", "level": 3},
+  {"slug": "l-theanine", "name": "L-Theanine", "parent": "amino-acids", "level": 3},
+  {"slug": "glycine", "name": "Glycine", "parent": "amino-acids", "level": 3},
+  {"slug": "tyrosine", "name": "Tyrosine", "parent": "amino-acids", "level": 3},
+  {"slug": "5-htp", "name": "5-HTP", "parent": "amino-acids", "level": 3},
+  {"slug": "sam-e", "name": "SAM-e", "parent": "amino-acids", "level": 3},
+  {"slug": "choline", "name": "Choline", "parent": "amino-acids", "level": 3},
+  {"slug": "taurine", "name": "Taurine", "parent": "amino-acids", "level": 3},
+  {"slug": "lysine", "name": "Lysine", "parent": "amino-acids", "level": 3},
+  {"slug": "tmg", "name": "TMG (Trimethylglycine)", "parent": "amino-acids", "level": 3},
+  {"slug": "inositol", "name": "Inositol", "parent": "amino-acids", "level": 3},
+  {"slug": "glynac", "name": "GlyNAC", "parent": "amino-acids", "level": 3},
+  {"slug": "sulforaphane", "name": "Sulforaphane", "parent": "amino-acids", "level": 3},
+
+  {"slug": "omega-3", "name": "Omega-3/Fish Oil", "parent": "fatty-acids", "level": 3},
+  {"slug": "mct-oil", "name": "MCT Oil", "parent": "fatty-acids", "level": 3},
+
+  {"slug": "adaptogens", "name": "Adaptogenic Herbs", "parent": "herbal-plant", "level": 3},
+  {"slug": "digestive-herbs", "name": "Digestive/Anti-inflammatory Herbs", "parent": "herbal-plant", "level": 3},
+  {"slug": "mushroom-supplements", "name": "Mushroom Supplements", "parent": "herbal-plant", "level": 3},
+  {"slug": "st-johns-wort", "name": "St. John's Wort", "parent": "herbal-plant", "level": 3},
+  {"slug": "kratom", "name": "Kratom", "parent": "herbal-plant", "level": 3},
+  {"slug": "other-herbs", "name": "Other Herbs", "parent": "herbal-plant", "level": 3},
+
+  {"slug": "collagen", "name": "Collagen", "parent": "enzymes-proteins", "level": 3},
+  {"slug": "digestive-enzymes", "name": "Digestive Enzymes", "parent": "enzymes-proteins", "level": 3},
+  {"slug": "lactoferrin", "name": "Lactoferrin", "parent": "enzymes-proteins", "level": 3},
+
+  {"slug": "antioxidants", "name": "Antioxidants", "parent": "other-supplements", "level": 3},
+  {"slug": "cofactors", "name": "Metabolic Cofactors", "parent": "other-supplements", "level": 3},
+  {"slug": "peptides", "name": "Peptides", "parent": "other-supplements", "level": 3},
+  {"slug": "fiber", "name": "Fiber", "parent": "other-supplements", "level": 3},
+  {"slug": "misc-supplements", "name": "Miscellaneous Supplements", "parent": "other-supplements", "level": 3},
+
+  {"slug": "adhd-stimulants", "name": "ADHD Stimulants", "parent": "prescription-meds", "level": 3},
+  {"slug": "adhd-non-stimulants", "name": "ADHD Non-Stimulants", "parent": "prescription-meds", "level": 3},
+  {"slug": "antidepressants", "name": "Antidepressants", "parent": "prescription-meds", "level": 3},
+  {"slug": "thyroid-hormones", "name": "Thyroid Hormones", "parent": "prescription-meds", "level": 3},
+  {"slug": "sex-hormones", "name": "Sex Hormones", "parent": "prescription-meds", "level": 3},
+  {"slug": "sleep-medications", "name": "Prescription Sleep Medications", "parent": "prescription-meds", "level": 3},
+  {"slug": "pain-medications", "name": "Pain/Migraine Medications", "parent": "prescription-meds", "level": 3},
+  {"slug": "anticonvulsants", "name": "Anticonvulsants", "parent": "prescription-meds", "level": 3},
+  {"slug": "other-prescription", "name": "Other Prescription Medications", "parent": "prescription-meds", "level": 3},
+
+  {"slug": "sleep-aids-otc", "name": "OTC Sleep Aids", "parent": "otc-meds", "level": 3},
+  {"slug": "pain-relievers-otc", "name": "OTC Pain Relievers", "parent": "otc-meds", "level": 3},
+  {"slug": "antihistamines-otc", "name": "Antihistamines", "parent": "otc-meds", "level": 3},
+  {"slug": "digestive-otc", "name": "Digestive Aids", "parent": "otc-meds", "level": 3},
+  {"slug": "other-otc", "name": "Other OTC Medications", "parent": "otc-meds", "level": 3},
+
+  {"slug": "stimulants-illicit", "name": "Stimulants", "parent": "recreational-illicit", "level": 3},
+  {"slug": "psychedelics", "name": "Psychedelics", "parent": "recreational-illicit", "level": 3},
+  {"slug": "cannabis", "name": "Cannabis/THC", "parent": "recreational-illicit", "level": 3},
+  {"slug": "nicotine", "name": "Nicotine", "parent": "recreational-illicit", "level": 3},
+  {"slug": "alcohol-sedatives", "name": "Alcohol (as sedative)", "parent": "recreational-illicit", "level": 3},
+  {"slug": "other-recreational", "name": "Other Recreational Substances", "parent": "recreational-illicit", "level": 3},
+
+  {"slug": "adhd-diagnosis", "name": "ADHD", "parent": "diagnoses", "level": 3},
+  {"slug": "thyroid-diagnosis", "name": "Hypothyroidism/Thyroid Issues", "parent": "diagnoses", "level": 3},
+  {"slug": "anemia-deficiency", "name": "Anemia/Vitamin Deficiencies", "parent": "diagnoses", "level": 3},
+  {"slug": "sleep-disorders", "name": "Sleep Disorders", "parent": "diagnoses", "level": 3},
+  {"slug": "food-intolerances", "name": "Food Intolerances/Allergies", "parent": "diagnoses", "level": 3},
+  {"slug": "autoimmune", "name": "Autoimmune Conditions", "parent": "diagnoses", "level": 3},
+  {"slug": "metabolic-disorders", "name": "Metabolic Disorders", "parent": "diagnoses", "level": 3},
+  {"slug": "genetic-conditions", "name": "Genetic Conditions", "parent": "diagnoses", "level": 3},
+  {"slug": "other-diagnoses", "name": "Other Medical Diagnoses", "parent": "diagnoses", "level": 3},
+
+  {"slug": "surgeries", "name": "Surgeries", "parent": "procedures-devices", "level": 3},
+  {"slug": "medical-devices", "name": "Medical Devices", "parent": "procedures-devices", "level": 3},
+  {"slug": "iv-treatments", "name": "IV/Injection Treatments", "parent": "procedures-devices", "level": 3},
+  {"slug": "dental-procedures", "name": "Dental Procedures", "parent": "procedures-devices", "level": 3},
+  {"slug": "pregnancy-childbirth", "name": "Pregnancy/Childbirth", "parent": "procedures-devices", "level": 3},
+  {"slug": "other-procedures", "name": "Other Medical Procedures", "parent": "procedures-devices", "level": 3},
+
+  {"slug": "water-hydration", "name": "Water/Hydration", "parent": "foods-add", "level": 3},
+  {"slug": "coffee-caffeine", "name": "Coffee/Caffeine", "parent": "foods-add", "level": 3},
+  {"slug": "protein-sources", "name": "Protein Sources", "parent": "foods-add", "level": 3},
+  {"slug": "vegetables-greens", "name": "Vegetables & Greens", "parent": "foods-add", "level": 3},
+  {"slug": "carbohydrates", "name": "Carbohydrates/Sugar", "parent": "foods-add", "level": 3},
+  {"slug": "dairy-products", "name": "Dairy Products", "parent": "foods-add", "level": 3},
+  {"slug": "specific-foods", "name": "Specific Foods", "parent": "foods-add", "level": 3},
+  {"slug": "beverages", "name": "Other Beverages", "parent": "foods-add", "level": 3},
+
+  {"slug": "alcohol-elimination", "name": "Alcohol Elimination", "parent": "foods-eliminate", "level": 3},
+  {"slug": "sugar-elimination", "name": "Sugar Elimination", "parent": "foods-eliminate", "level": 3},
+  {"slug": "gluten-elimination", "name": "Gluten/Wheat Elimination", "parent": "foods-eliminate", "level": 3},
+  {"slug": "dairy-elimination", "name": "Dairy Elimination", "parent": "foods-eliminate", "level": 3},
+  {"slug": "processed-elimination", "name": "Processed Foods Elimination", "parent": "foods-eliminate", "level": 3},
+  {"slug": "seed-oils-elimination", "name": "Seed Oils Elimination", "parent": "foods-eliminate", "level": 3},
+  {"slug": "other-eliminations", "name": "Other Food Eliminations", "parent": "foods-eliminate", "level": 3},
+
+  {"slug": "fasting", "name": "Fasting/Intermittent Fasting", "parent": "eating-patterns", "level": 3},
+  {"slug": "calorie-management", "name": "Calorie Management", "parent": "eating-patterns", "level": 3},
+  {"slug": "meal-timing", "name": "Meal Timing", "parent": "eating-patterns", "level": 3},
+  {"slug": "clean-eating", "name": "Clean/Whole Foods Eating", "parent": "eating-patterns", "level": 3},
+  {"slug": "weight-loss", "name": "Weight Loss", "parent": "eating-patterns", "level": 3},
+
+  {"slug": "sleep-duration", "name": "Sleep Duration", "parent": "sleep", "level": 3},
+  {"slug": "sleep-schedule", "name": "Sleep Schedule/Consistency", "parent": "sleep", "level": 3},
+  {"slug": "sleep-environment", "name": "Sleep Environment", "parent": "sleep", "level": 3},
+  {"slug": "sleep-hygiene", "name": "Sleep Hygiene", "parent": "sleep", "level": 3},
+  {"slug": "naps", "name": "Napping", "parent": "sleep", "level": 3},
+
+  {"slug": "strength-training", "name": "Strength Training", "parent": "exercise-movement", "level": 3},
+  {"slug": "cardiovascular", "name": "Cardiovascular Exercise", "parent": "exercise-movement", "level": 3},
+  {"slug": "mind-body-exercise", "name": "Mind-Body Exercise", "parent": "exercise-movement", "level": 3},
+  {"slug": "stretching-mobility", "name": "Stretching/Mobility Work", "parent": "exercise-movement", "level": 3},
+  {"slug": "general-activity", "name": "General Physical Activity", "parent": "exercise-movement", "level": 3},
+  {"slug": "sports-recreation", "name": "Sports/Recreational Activities", "parent": "exercise-movement", "level": 3},
+
+  {"slug": "therapy-counseling", "name": "Therapy/Counseling", "parent": "mental-health", "level": 3},
+  {"slug": "meditation-spiritual", "name": "Meditation/Spiritual Practices", "parent": "mental-health", "level": 3},
+  {"slug": "mindset-changes", "name": "Mindset/Cognitive Changes", "parent": "mental-health", "level": 3},
+  {"slug": "emotional-processing", "name": "Emotional Processing", "parent": "mental-health", "level": 3},
+  {"slug": "self-compassion", "name": "Self-Compassion", "parent": "mental-health", "level": 3},
+  {"slug": "breathwork", "name": "Breathwork/Breathing Techniques", "parent": "mental-health", "level": 3},
+  {"slug": "purpose-goals", "name": "Purpose/Goals/Meaningful Work", "parent": "mental-health", "level": 3},
+  {"slug": "personal-development", "name": "Personal Development", "parent": "mental-health", "level": 3},
+
+  {"slug": "romantic-relationships", "name": "Romantic Relationships", "parent": "social-relationships", "level": 3},
+  {"slug": "ending-relationships", "name": "Ending Relationships", "parent": "social-relationships", "level": 3},
+  {"slug": "friendships-community", "name": "Friendships/Community", "parent": "social-relationships", "level": 3},
+  {"slug": "family", "name": "Family", "parent": "social-relationships", "level": 3},
+  {"slug": "pets", "name": "Pets", "parent": "social-relationships", "level": 3},
+  {"slug": "social-environment", "name": "Social Environment", "parent": "social-relationships", "level": 3},
+  {"slug": "financial", "name": "Financial/Work Changes", "parent": "social-relationships", "level": 3},
+
+  {"slug": "relocation", "name": "Relocation/Moving", "parent": "environment-location", "level": 3},
+  {"slug": "air-quality", "name": "Air Quality/Ventilation", "parent": "environment-location", "level": 3},
+  {"slug": "light-exposure", "name": "Light Exposure/Sunlight", "parent": "environment-location", "level": 3},
+  {"slug": "temperature", "name": "Temperature Management", "parent": "environment-location", "level": 3},
+  {"slug": "nature-outdoors", "name": "Nature/Outdoors Exposure", "parent": "environment-location", "level": 3},
+
+  {"slug": "quit-smoking", "name": "Quit Smoking", "parent": "substance-changes", "level": 3},
+  {"slug": "quit-reduce-alcohol", "name": "Quit/Reduce Alcohol", "parent": "substance-changes", "level": 3},
+  {"slug": "caffeine-changes", "name": "Caffeine Changes", "parent": "substance-changes", "level": 3},
+  {"slug": "reduce-screen-time", "name": "Reduce Screen Time", "parent": "substance-changes", "level": 3},
+  {"slug": "sobriety", "name": "General Sobriety", "parent": "substance-changes", "level": 3},
+
+  {"slug": "d3", "name": "Vitamin D3", "parent": "vitamin-d", "level": 4},
+  {"slug": "d2", "name": "Vitamin D2", "parent": "vitamin-d", "level": 4},
+  {"slug": "methylcobalamin", "name": "Methylcobalamin", "parent": "vitamin-b12", "level": 4},
+  {"slug": "cyanocobalamin", "name": "Cyanocobalamin", "parent": "vitamin-b12", "level": 4},
+  {"slug": "b12-injections", "name": "B12 Injections", "parent": "vitamin-b12", "level": 4},
+  {"slug": "methylfolate", "name": "Methylfolate/L-Methylfolate", "parent": "folate", "level": 4},
+  {"slug": "folic-acid", "name": "Folic Acid (synthetic)", "parent": "folate", "level": 4},
+  {"slug": "k2", "name": "Vitamin K2", "parent": "vitamin-k", "level": 4},
+  {"slug": "k3", "name": "Vitamin K3", "parent": "vitamin-k", "level": 4},
+
+  {"slug": "magnesium-glycinate", "name": "Magnesium Glycinate", "parent": "magnesium", "level": 4},
+  {"slug": "magnesium-citrate", "name": "Magnesium Citrate", "parent": "magnesium", "level": 4},
+  {"slug": "magnesium-threonate", "name": "Magnesium Threonate", "parent": "magnesium", "level": 4},
+  {"slug": "magnesium-bisglycinate", "name": "Magnesium Bisglycinate", "parent": "magnesium", "level": 4},
+  {"slug": "magnesium-complex", "name": "Magnesium Complex", "parent": "magnesium", "level": 4},
+  {"slug": "magnesium-cream", "name": "Magnesium Cream (topical)", "parent": "magnesium", "level": 4},
+
+  {"slug": "nalt", "name": "N-Acetyl L-Tyrosine (NALT)", "parent": "tyrosine", "level": 4},
+  {"slug": "cdp-choline", "name": "CDP-Choline", "parent": "choline", "level": 4},
+  {"slug": "alpha-gpc", "name": "Alpha-GPC", "parent": "choline", "level": 4},
+  {"slug": "lecithin", "name": "Lecithin", "parent": "choline", "level": 4},
+  {"slug": "sunflower-lecithin", "name": "Sunflower Lecithin", "parent": "choline", "level": 4},
+
+  {"slug": "fish-oil", "name": "Fish Oil", "parent": "omega-3", "level": 4},
+  {"slug": "cod-liver-oil", "name": "Cod Liver Oil", "parent": "omega-3", "level": 4},
+
+  {"slug": "ashwagandha", "name": "Ashwagandha", "parent": "adaptogens", "level": 4},
+  {"slug": "milk-thistle", "name": "Milk Thistle", "parent": "digestive-herbs", "level": 4},
+  {"slug": "turmeric", "name": "Turmeric", "parent": "digestive-herbs", "level": 4},
+  {"slug": "boswellia", "name": "Boswellia", "parent": "digestive-herbs", "level": 4},
+  {"slug": "ginger", "name": "Ginger", "parent": "digestive-herbs", "level": 4},
+  {"slug": "schisandra", "name": "Schisandra", "parent": "digestive-herbs", "level": 4},
+  {"slug": "lions-mane", "name": "Lion's Mane", "parent": "mushroom-supplements", "level": 4},
+  {"slug": "reishi", "name": "Reishi", "parent": "mushroom-supplements", "level": 4},
+  {"slug": "chaga", "name": "Chaga", "parent": "mushroom-supplements", "level": 4},
+  {"slug": "cordyceps", "name": "Cordyceps", "parent": "mushroom-supplements", "level": 4},
+  {"slug": "turkey-tail", "name": "Turkey Tail", "parent": "mushroom-supplements", "level": 4},
+  {"slug": "mushroom-coffee", "name": "Mushroom Coffee", "parent": "mushroom-supplements", "level": 4},
+  {"slug": "mushroom-blend", "name": "Mushroom Blend/Complex", "parent": "mushroom-supplements", "level": 4},
+
+  {"slug": "collagen-peptides", "name": "Collagen Peptides", "parent": "collagen", "level": 4},
+  {"slug": "collagen-complex", "name": "Collagen Complex", "parent": "collagen", "level": 4},
+  {"slug": "nattokinase", "name": "Nattokinase", "parent": "digestive-enzymes", "level": 4},
+  {"slug": "serrapeptase", "name": "Serrapeptase", "parent": "digestive-enzymes", "level": 4},
+
+  {"slug": "coq10", "name": "CoQ10", "parent": "antioxidants", "level": 4},
+  {"slug": "alpha-lipoic-acid", "name": "Alpha-Lipoic Acid", "parent": "antioxidants", "level": 4},
+  {"slug": "r-lipoic-acid", "name": "R-Lipoic Acid", "parent": "antioxidants", "level": 4},
+  {"slug": "nadh", "name": "NADH", "parent": "cofactors", "level": 4},
+  {"slug": "pqq", "name": "PQQ", "parent": "cofactors", "level": 4},
+  {"slug": "ss-31", "name": "SS-31", "parent": "peptides", "level": 4},
+  {"slug": "methylene-blue", "name": "Methylene Blue", "parent": "misc-supplements", "level": 4},
+  {"slug": "apple-cider-vinegar", "name": "Apple Cider Vinegar", "parent": "misc-supplements", "level": 4},
+  {"slug": "black-seed-oil", "name": "Black Seed Oil", "parent": "misc-supplements", "level": 4},
+  {"slug": "royal-jelly", "name": "Royal Jelly", "parent": "misc-supplements", "level": 4},
+  {"slug": "chia-seeds", "name": "Chia Seeds", "parent": "misc-supplements", "level": 4},
+  {"slug": "nano-hydroxyapatite", "name": "Nano Hydroxyapatite", "parent": "misc-supplements", "level": 4},
+
+  {"slug": "adderall", "name": "Adderall", "parent": "adhd-stimulants", "level": 4},
+  {"slug": "ritalin", "name": "Ritalin", "parent": "adhd-stimulants", "level": 4},
+  {"slug": "vyvanse", "name": "Vyvanse/Lisdexamfetamine", "parent": "adhd-stimulants", "level": 4},
+  {"slug": "methylphenidate", "name": "Methylphenidate", "parent": "adhd-stimulants", "level": 4},
+  {"slug": "amphetamines", "name": "Amphetamines (generic)", "parent": "adhd-stimulants", "level": 4},
+  {"slug": "modafinil", "name": "Modafinil", "parent": "adhd-non-stimulants", "level": 4},
+  {"slug": "armodafinil", "name": "Armodafinil", "parent": "adhd-non-stimulants", "level": 4},
+
+  {"slug": "wellbutrin", "name": "Wellbutrin/Bupropion", "parent": "antidepressants", "level": 4},
+  {"slug": "lexapro", "name": "Lexapro", "parent": "antidepressants", "level": 4},
+  {"slug": "amitriptyline", "name": "Amitriptyline", "parent": "antidepressants", "level": 4},
+
+  {"slug": "levothyroxine", "name": "Levothyroxine/Thyroxine", "parent": "thyroid-hormones", "level": 4},
+
+  {"slug": "estrogen", "name": "Estrogen", "parent": "sex-hormones", "level": 4},
+  {"slug": "estradiol", "name": "Estradiol", "parent": "sex-hormones", "level": 4},
+  {"slug": "testosterone", "name": "Testosterone", "parent": "sex-hormones", "level": 4},
+  {"slug": "testosterone-cypionate", "name": "Testosterone Cypionate", "parent": "sex-hormones", "level": 4},
+
+  {"slug": "trazodone", "name": "Trazodone", "parent": "sleep-medications", "level": 4},
+
+  {"slug": "migraine-medication", "name": "Migraine Medication", "parent": "pain-medications", "level": 4},
+  {"slug": "low-dose-naltrexone", "name": "Low-Dose Naltrexone (LDN)", "parent": "other-prescription", "level": 4},
+  {"slug": "insulin", "name": "Insulin", "parent": "other-prescription", "level": 4},
+  {"slug": "hydroxyzine", "name": "Hydroxyzine", "parent": "other-prescription", "level": 4},
+  {"slug": "ondansetron", "name": "Ondansetron", "parent": "other-prescription", "level": 4},
+
+  {"slug": "melatonin", "name": "Melatonin", "parent": "sleep-aids-otc", "level": 4},
+  {"slug": "benadryl", "name": "Benadryl/Diphenhydramine", "parent": "sleep-aids-otc", "level": 4},
+  {"slug": "unisom", "name": "Unisom", "parent": "sleep-aids-otc", "level": 4},
+  {"slug": "chamomile", "name": "Chamomile", "parent": "sleep-aids-otc", "level": 4},
+
+  {"slug": "advil", "name": "Advil/Ibuprofen", "parent": "pain-relievers-otc", "level": 4},
+  {"slug": "aspirin", "name": "Aspirin", "parent": "pain-relievers-otc", "level": 4},
+
+  {"slug": "pepcid", "name": "Pepcid AC", "parent": "antihistamines-otc", "level": 4},
+  {"slug": "antihistamine", "name": "Antihistamine (generic)", "parent": "antihistamines-otc", "level": 4},
+
+  {"slug": "gaba-supplement", "name": "GABA (supplement)", "parent": "other-otc", "level": 4},
+
+  {"slug": "cocaine", "name": "Cocaine", "parent": "stimulants-illicit", "level": 4},
+  {"slug": "methamphetamine", "name": "Methamphetamine", "parent": "stimulants-illicit", "level": 4},
+
+  {"slug": "lsd", "name": "LSD", "parent": "psychedelics", "level": 4},
+  {"slug": "psilocybin", "name": "Psilocybin/Mushrooms", "parent": "psychedelics", "level": 4},
+  {"slug": "dmt", "name": "DMT", "parent": "psychedelics", "level": 4},
+  {"slug": "ketamine", "name": "Ketamine", "parent": "psychedelics", "level": 4},
+  {"slug": "mdma", "name": "MDMA", "parent": "psychedelics", "level": 4},
+
+  {"slug": "thc", "name": "THC/Cannabis", "parent": "cannabis", "level": 4},
+  {"slug": "weed", "name": "Marijuana", "parent": "cannabis", "level": 4},
+
+  {"slug": "whiskey", "name": "Whiskey (as sedative)", "parent": "alcohol-sedatives", "level": 4},
+
+  {"slug": "sleep-apnea", "name": "Sleep Apnea", "parent": "sleep-disorders", "level": 4},
+  {"slug": "n24", "name": "N24 (Non-24 Sleep Disorder)", "parent": "sleep-disorders", "level": 4},
+  {"slug": "insomnia", "name": "Insomnia", "parent": "sleep-disorders", "level": 4},
+
+  {"slug": "celiac", "name": "Celiac Disease", "parent": "food-intolerances", "level": 4},
+  {"slug": "gluten-intolerance", "name": "Gluten/Wheat Intolerance", "parent": "food-intolerances", "level": 4},
+  {"slug": "dairy-intolerance", "name": "Dairy/Lactose Intolerance", "parent": "food-intolerances", "level": 4},
+  {"slug": "histamine-intolerance", "name": "Histamine Intolerance", "parent": "food-intolerances", "level": 4},
+
+  {"slug": "pcos", "name": "PCOS", "parent": "autoimmune", "level": 4},
+  {"slug": "hashimotos", "name": "Hashimoto's", "parent": "autoimmune", "level": 4},
+
+  {"slug": "diabetes", "name": "Diabetes (Type 1)", "parent": "metabolic-disorders", "level": 4},
+  {"slug": "hypoglycemia", "name": "Hypoglycemia", "parent": "metabolic-disorders", "level": 4},
+
+  {"slug": "mthfr", "name": "MTHFR Gene Mutation", "parent": "genetic-conditions", "level": 4},
+
+  {"slug": "asthma", "name": "Asthma", "parent": "other-diagnoses", "level": 4},
+  {"slug": "autism", "name": "Autism", "parent": "other-diagnoses", "level": 4},
+  {"slug": "heavy-metal-poisoning", "name": "Heavy Metal Poisoning", "parent": "other-diagnoses", "level": 4},
+  {"slug": "mold-toxicity", "name": "Mold Toxicity", "parent": "other-diagnoses", "level": 4},
+
+  {"slug": "deviated-septum-surgery", "name": "Deviated Septum Surgery", "parent": "surgeries", "level": 4},
+  {"slug": "top-surgery", "name": "Top Surgery", "parent": "surgeries", "level": 4},
+  {"slug": "liver-transplant", "name": "Liver Transplant", "parent": "surgeries", "level": 4},
+
+  {"slug": "cpap", "name": "CPAP Machine", "parent": "medical-devices", "level": 4},
+  {"slug": "orthopedic-insoles", "name": "Orthopedic Insoles", "parent": "medical-devices", "level": 4},
+  {"slug": "weighted-blanket", "name": "Weighted Blanket", "parent": "medical-devices", "level": 4},
+  {"slug": "sad-lights", "name": "SAD Lights/Light Therapy", "parent": "medical-devices", "level": 4},
+
+  {"slug": "iron-infusions", "name": "Iron Infusions/IV", "parent": "iv-treatments", "level": 4},
+  {"slug": "allergy-injections", "name": "Allergy Injections", "parent": "iv-treatments", "level": 4},
+
+  {"slug": "root-canal", "name": "Root Canal", "parent": "dental-procedures", "level": 4},
+  {"slug": "dental-work", "name": "Dental Work (general)", "parent": "dental-procedures", "level": 4},
+
+  {"slug": "pregnancy", "name": "Pregnancy", "parent": "pregnancy-childbirth", "level": 4},
+
+  {"slug": "bloodletting", "name": "Bloodletting/Phlebotomy", "parent": "other-procedures", "level": 4},
+  {"slug": "red-light-therapy", "name": "Red Light Therapy", "parent": "other-procedures", "level": 4},
+
+  {"slug": "water", "name": "Water", "parent": "water-hydration", "level": 4},
+
+  {"slug": "coffee", "name": "Coffee", "parent": "coffee-caffeine", "level": 4},
+  {"slug": "matcha", "name": "Matcha", "parent": "coffee-caffeine", "level": 4},
+
+  {"slug": "red-meat", "name": "Red Meat", "parent": "protein-sources", "level": 4},
+  {"slug": "meat", "name": "Meat (general)", "parent": "protein-sources", "level": 4},
+  {"slug": "protein", "name": "Protein (general)", "parent": "protein-sources", "level": 4},
+  {"slug": "liver-organ-meat", "name": "Liver (organ meat)", "parent": "protein-sources", "level": 4},
+
+  {"slug": "vegetables", "name": "Vegetables (general)", "parent": "vegetables-greens", "level": 4},
+  {"slug": "greens", "name": "Greens/Leafy Greens", "parent": "vegetables-greens", "level": 4},
+  {"slug": "salads", "name": "Salads", "parent": "vegetables-greens", "level": 4},
+  {"slug": "green-juice", "name": "Green Juice", "parent": "vegetables-greens", "level": 4},
+
+  {"slug": "sugar", "name": "Sugar", "parent": "carbohydrates", "level": 4},
+  {"slug": "carbs", "name": "Carbohydrates", "parent": "carbohydrates", "level": 4},
+
+  {"slug": "milk", "name": "Milk", "parent": "dairy-products", "level": 4},
+
+  {"slug": "tomatoes", "name": "Tomatoes", "parent": "specific-foods", "level": 4},
+  {"slug": "nuts", "name": "Nuts", "parent": "specific-foods", "level": 4},
+  {"slug": "dark-chocolate", "name": "Dark Chocolate", "parent": "specific-foods", "level": 4},
+  {"slug": "snails", "name": "Snails", "parent": "specific-foods", "level": 4},
+
+  {"slug": "not-drinking-wine", "name": "Not Drinking Wine Daily", "parent": "alcohol-elimination", "level": 4},
+
+  {"slug": "low-carb", "name": "Low Carb", "parent": "carbohydrates", "level": 4},
+  {"slug": "lower-sugar", "name": "Lower Sugar", "parent": "sugar-elimination", "level": 4},
+
+  {"slug": "adequate-calories", "name": "Adequate Calorie Intake", "parent": "calorie-management", "level": 4},
+  {"slug": "calorie-restriction", "name": "Calorie Restriction", "parent": "calorie-management", "level": 4},
+
+  {"slug": "eating-earlier", "name": "Eating Earlier in Day", "parent": "meal-timing", "level": 4},
+  {"slug": "intermittent-fasting", "name": "Intermittent Fasting", "parent": "fasting", "level": 4},
+
+  {"slug": "8-hours-sleep", "name": "8+ Hours Sleep", "parent": "sleep-duration", "level": 4},
+  {"slug": "enough-sleep", "name": "Enough Sleep (general)", "parent": "sleep-duration", "level": 4},
+
+  {"slug": "consistent-bedtime", "name": "Consistent Bedtime", "parent": "sleep-schedule", "level": 4},
+  {"slug": "earlier-bedtime", "name": "Earlier Bedtime", "parent": "sleep-schedule", "level": 4},
+
+  {"slug": "bedroom-temperature", "name": "Bedroom Temperature", "parent": "sleep-environment", "level": 4},
+  {"slug": "cold-room", "name": "Cold Room", "parent": "sleep-environment", "level": 4},
+
+  {"slug": "no-screens-before-bed", "name": "No Screens Before Bed", "parent": "sleep-hygiene", "level": 4},
+  {"slug": "reading-before-bed", "name": "Reading Before Bed", "parent": "sleep-hygiene", "level": 4},
+
+  {"slug": "lifting-weights", "name": "Lifting Weights", "parent": "strength-training", "level": 4},
+  {"slug": "deadlifts", "name": "Deadlifts", "parent": "strength-training", "level": 4},
+  {"slug": "squats", "name": "Squats", "parent": "strength-training", "level": 4},
+  {"slug": "overhead-press", "name": "Overhead Press (OHP)", "parent": "strength-training", "level": 4},
+
+  {"slug": "running", "name": "Running", "parent": "cardiovascular", "level": 4},
+  {"slug": "jogging", "name": "Jogging", "parent": "cardiovascular", "level": 4},
+  {"slug": "walking", "name": "Walking", "parent": "cardiovascular", "level": 4},
+  {"slug": "cardio", "name": "Cardio (general)", "parent": "cardiovascular", "level": 4},
+  {"slug": "marathon-training", "name": "Marathon Training", "parent": "cardiovascular", "level": 4},
+  {"slug": "crossfit", "name": "CrossFit", "parent": "cardiovascular", "level": 4},
+
+  {"slug": "yoga", "name": "Yoga", "parent": "mind-body-exercise", "level": 4},
+  {"slug": "pilates", "name": "Pilates", "parent": "mind-body-exercise", "level": 4},
+
+  {"slug": "foam-rolling", "name": "Foam Rolling", "parent": "stretching-mobility", "level": 4},
+  {"slug": "myofascial-release", "name": "Myofascial Release", "parent": "stretching-mobility", "level": 4},
+  {"slug": "stretching", "name": "Stretching", "parent": "stretching-mobility", "level": 4},
+  {"slug": "massage", "name": "Massage/Self-Massage", "parent": "stretching-mobility", "level": 4},
+
+  {"slug": "walking-outside", "name": "Walking Outside", "parent": "general-activity", "level": 4},
+  {"slug": "general-movement", "name": "General Movement/Activity", "parent": "general-activity", "level": 4},
+
+  {"slug": "skydiving", "name": "Skydiving", "parent": "sports-recreation", "level": 4},
+
+  {"slug": "therapy", "name": "Therapy", "parent": "therapy-counseling", "level": 4},
+
+  {"slug": "meditation", "name": "Meditation", "parent": "meditation-spiritual", "level": 4},
+  {"slug": "prayer", "name": "Prayer", "parent": "meditation-spiritual", "level": 4},
+  {"slug": "rosary", "name": "Praying the Rosary", "parent": "meditation-spiritual", "level": 4},
+  {"slug": "spiritual-practice", "name": "Spiritual Practice", "parent": "meditation-spiritual", "level": 4},
+
+  {"slug": "mindset-shift", "name": "Mindset Shift", "parent": "mindset-changes", "level": 4},
+  {"slug": "positive-thinking", "name": "Positive Thinking/Outlook", "parent": "mindset-changes", "level": 4},
+  {"slug": "cognitive-reframing", "name": "Cognitive Reframing", "parent": "mindset-changes", "level": 4},
+
+  {"slug": "feeling-emotions", "name": "Feeling/Processing Emotions", "parent": "emotional-processing", "level": 4},
+  {"slug": "emotional-work", "name": "Emotional Work", "parent": "emotional-processing", "level": 4},
+  {"slug": "somatic-work", "name": "Somatic/Body Work", "parent": "emotional-processing", "level": 4},
+
+  {"slug": "buteyko-breathing", "name": "Buteyko Breathing", "parent": "breathwork", "level": 4},
+  {"slug": "nasal-breathing", "name": "Nasal Breathing", "parent": "breathwork", "level": 4},
+
+  {"slug": "meaningful-work", "name": "Meaningful Work", "parent": "purpose-goals", "level": 4},
+  {"slug": "ambitious-goals", "name": "Ambitious Goals", "parent": "purpose-goals", "level": 4},
+
+  {"slug": "growing-up", "name": "Growing Up/Maturity", "parent": "personal-development", "level": 4},
+  {"slug": "self-awareness", "name": "Self-Awareness", "parent": "personal-development", "level": 4},
+
+  {"slug": "marriage", "name": "Marriage/Getting Married", "parent": "romantic-relationships", "level": 4},
+  {"slug": "dating", "name": "Dating/Romantic Partner", "parent": "romantic-relationships", "level": 4},
+  {"slug": "falling-in-love", "name": "Falling in Love", "parent": "romantic-relationships", "level": 4},
+
+  {"slug": "divorce", "name": "Divorce", "parent": "ending-relationships", "level": 4},
+  {"slug": "breakup", "name": "Breakup", "parent": "ending-relationships", "level": 4},
+
+  {"slug": "friends", "name": "Friends/Friendships", "parent": "friendships-community", "level": 4},
+  {"slug": "discord-community", "name": "Discord/Online Community", "parent": "friendships-community", "level": 4},
+  {"slug": "community", "name": "Community (general)", "parent": "friendships-community", "level": 4},
+
+  {"slug": "having-kids", "name": "Having Kids", "parent": "family", "level": 4},
+
+  {"slug": "getting-dog", "name": "Getting a Dog", "parent": "pets", "level": 4},
+  {"slug": "getting-cat", "name": "Getting a Cat", "parent": "pets", "level": 4},
+
+  {"slug": "friend-circle", "name": "Friend Circle/Social Circle", "parent": "social-environment", "level": 4},
+  {"slug": "positive-people", "name": "Being Around Positive People", "parent": "social-environment", "level": 4},
+
+  {"slug": "money", "name": "Money/Financial Improvement", "parent": "financial", "level": 4},
+  {"slug": "harder-job", "name": "Getting a Harder Job", "parent": "financial", "level": 4},
+
+  {"slug": "moving-to-sf", "name": "Moving to San Francisco", "parent": "relocation", "level": 4},
+  {"slug": "moving-countries", "name": "Moving Countries", "parent": "relocation", "level": 4},
+  {"slug": "leaving-singapore", "name": "Leaving Singapore", "parent": "relocation", "level": 4},
+
+  {"slug": "co2-levels", "name": "CO2 Levels/Ventilation", "parent": "air-quality", "level": 4},
+  {"slug": "air-quality-monitor", "name": "Air Quality Monitor", "parent": "air-quality", "level": 4},
+
+  {"slug": "sunlight", "name": "Sunlight/Sun Exposure", "parent": "light-exposure", "level": 4},
+  {"slug": "sun-gazing", "name": "Sun Gazing", "parent": "light-exposure", "level": 4},
+  {"slug": "morning-sunlight", "name": "Morning Sunlight", "parent": "light-exposure", "level": 4},
+
+  {"slug": "cold-showers", "name": "Cold Showers", "parent": "temperature", "level": 4},
+  {"slug": "hot-showers", "name": "Hot Showers", "parent": "temperature", "level": 4},
+
+  {"slug": "getting-outside", "name": "Getting Outside", "parent": "nature-outdoors", "level": 4},
+  {"slug": "touching-grass", "name": "Touching Grass", "parent": "nature-outdoors", "level": 4},
+
+  {"slug": "quitting-cigarettes", "name": "Quitting Cigarettes", "parent": "quit-smoking", "level": 4},
+
+  {"slug": "sobriety-alcohol", "name": "Sobriety from Alcohol", "parent": "quit-reduce-alcohol", "level": 4},
+  {"slug": "reducing-alcohol", "name": "Reducing Alcohol", "parent": "quit-reduce-alcohol", "level": 4},
+
+  {"slug": "quitting-caffeine", "name": "Quitting Caffeine", "parent": "caffeine-changes", "level": 4},
+  {"slug": "reducing-caffeine", "name": "Reducing Caffeine", "parent": "caffeine-changes", "level": 4},
+  {"slug": "no-caffeine-after-3pm", "name": "No Caffeine After 3pm", "parent": "caffeine-changes", "level": 4},
+
+  {"slug": "less-screen-time", "name": "Less Screen Time", "parent": "reduce-screen-time", "level": 4}
+]
