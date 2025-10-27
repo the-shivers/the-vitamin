@@ -1,6 +1,6 @@
 # The Vitamin
 
-An analysis of 400+ responses to this meme:
+An analysis of 400+ responses to this meme, across Reddit, X, and Tumblr, to find out which "Vitamins" (health interventions) have worked for people:
 
 <img width="475" height="597" alt="image" src="https://github.com/user-attachments/assets/a976d72f-a4f5-4b40-acb9-b7347af1e7cb" />
 
