@@ -30,4 +30,4 @@ Top interventions mentioned:
 
 ## Minor Caveat
 
-About 20% of the posts come from [this](https://x.com/BecomingCritter/status/1900621198826107239) post thread by [@becomingcritter](https://x.com/BecomingCritter), which isn't exactly the same as the tumblr "vitamin" post. But I figured it's close enough, and the responses generally followed the same patterns.
+About 20% of the posts come from [this](https://x.com/BecomingCritter/status/1900621198826107239) post by [@BecomingCritter](https://x.com/BecomingCritter), which isn't _exactly_ the same as the tumblr "vitamin" post. But I figured it's close enough, and the responses generally followed the same patterns.
