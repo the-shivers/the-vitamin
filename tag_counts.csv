@@ -1,0 +1,360 @@
+name,slug,level,count,parent
+Supplements,supplements,1,190,
+Drugs & Medical Interventions,drugs-medical,1,139,
+Vitamins,vitamins,2,108,supplements
+Lifestyle,lifestyle,1,99,
+Minerals,minerals,2,76,supplements
+Vitamin D,vitamin-d,3,64,vitamins
+Prescription Medications,prescription-meds,2,54,drugs-medical
+Diet,diet,1,54,
+Medical Diagnoses,diagnoses,2,51,drugs-medical
+Exercise & Movement,exercise-movement,2,39,lifestyle
+Magnesium,magnesium,3,33,minerals
+Foods & Nutrients to Add,foods-add,2,30,diet
+Iron,iron,3,30,minerals
+Vitamin B12,vitamin-b12,3,29,vitamins
+Sleep,sleep,2,28,lifestyle
+Amino Acids & Derivatives,amino-acids,2,27,supplements
+Sleep Duration,sleep-duration,3,25,sleep
+Mental Health Practices,mental-health,2,23,lifestyle
+Enough Sleep (general),enough-sleep,4,22,sleep-duration
+General Physical Activity,general-activity,3,22,exercise-movement
+General Movement/Activity,general-movement,4,21,general-activity
+Eating Patterns,eating-patterns,2,21,diet
+ADHD Stimulants,adhd-stimulants,3,19,prescription-meds
+Recreational/Illicit Substances,recreational-illicit,2,17,drugs-medical
+Social & Relationships,social-relationships,2,16,lifestyle
+Environment & Location,environment-location,2,15,lifestyle
+Medical Procedures & Devices,procedures-devices,2,14,drugs-medical
+ADHD,adhd-diagnosis,3,14,diagnoses
+OTC Medications,otc-meds,2,13,drugs-medical
+Sex Hormones,sex-hormones,3,13,prescription-meds
+Anemia/Vitamin Deficiencies,anemia-deficiency,3,13,diagnoses
+Other Supplements,other-supplements,2,13,supplements
+Vitamin D3,d3,4,13,vitamin-d
+Creatine,creatine,3,12,amino-acids
+Folate/Folic Acid,folate,3,12,vitamins
+Dietary Elimination,foods-eliminate,2,12,diet
+Clean/Whole Foods Eating,clean-eating,3,12,eating-patterns
+Adderall,adderall,4,10,adhd-stimulants
+Carbohydrates/Sugar,carbohydrates,3,10,foods-add
+OTC Sleep Aids,sleep-aids-otc,3,9,otc-meds
+Substance Use Changes,substance-changes,2,9,lifestyle
+Stimulants,stimulants-illicit,3,8,recreational-illicit
+Cardiovascular Exercise,cardiovascular,3,8,exercise-movement
+Coffee/Caffeine,coffee-caffeine,3,8,foods-add
+Herbal & Plant-Based,herbal-plant,2,8,supplements
+Light Exposure/Sunlight,light-exposure,3,8,environment-location
+Strength Training,strength-training,3,8,exercise-movement
+Meditation/Spiritual Practices,meditation-spiritual,3,8,mental-health
+Water/Hydration,water-hydration,3,7,foods-add
+Water,water,4,7,water-hydration
+Food Intolerances/Allergies,food-intolerances,3,7,diagnoses
+Testosterone,testosterone,4,7,sex-hormones
+Coffee,coffee,4,7,coffee-caffeine
+Sugar,sugar,4,7,carbohydrates
+Lifting Weights,lifting-weights,4,7,strength-training
+Antidepressants,antidepressants,3,7,prescription-meds
+Vitamin B (unspecified),vitamin-b,3,6,vitamins
+Cocaine,cocaine,4,6,stimulants-illicit
+Vitamin K,vitamin-k,3,6,vitamins
+B-Complex,vitamin-b-complex,3,6,vitamins
+Fatty Acids,fatty-acids,2,6,supplements
+Levothyroxine/Thyroxine,levothyroxine,4,6,thyroid-hormones
+Thyroid Hormones,thyroid-hormones,3,6,prescription-meds
+Sunlight/Sun Exposure,sunlight,4,6,light-exposure
+Miscellaneous Supplements,misc-supplements,3,6,other-supplements
+Vegetables & Greens,vegetables-greens,3,6,foods-add
+Protein Sources,protein-sources,3,6,foods-add
+Melatonin,melatonin,4,5,sleep-aids-otc
+Amphetamines (generic),amphetamines,4,5,adhd-stimulants
+Enzymes & Proteins,enzymes-proteins,2,5,supplements
+Psychedelics,psychedelics,3,5,recreational-illicit
+Methylfolate/L-Methylfolate,methylfolate,4,5,folate
+L-Theanine,l-theanine,3,5,amino-acids
+Mindset/Cognitive Changes,mindset-changes,3,5,mental-health
+Meditation,meditation,4,5,meditation-spiritual
+Surgeries,surgeries,3,4,procedures-devices
+Sleep Schedule/Consistency,sleep-schedule,3,4,sleep
+Other Prescription Medications,other-prescription,3,4,prescription-meds
+Sodium/Salt,sodium-salt,3,4,minerals
+Other Medical Diagnoses,other-diagnoses,3,4,diagnoses
+Hypothyroidism/Thyroid Issues,thyroid-diagnosis,3,4,diagnoses
+NAC (N-Acetyl Cysteine),nac,3,4,amino-acids
+Omega-3/Fish Oil,omega-3,3,4,fatty-acids
+Magnesium Glycinate,magnesium-glycinate,4,4,magnesium
+Romantic Relationships,romantic-relationships,3,4,social-relationships
+Stretching/Mobility Work,stretching-mobility,3,4,exercise-movement
+Multivitamin,multivitamin,3,4,vitamins
+Potassium,potassium,3,4,minerals
+Folic Acid (synthetic),folic-acid,4,4,folate
+Estrogen,estrogen,4,4,sex-hormones
+B12 Injections,b12-injections,4,4,vitamin-b12
+Fasting/Intermittent Fasting,fasting,3,4,eating-patterns
+Sugar Elimination,sugar-elimination,3,4,foods-eliminate
+Temperature Management,temperature,3,3,environment-location
+Sleep Disorders,sleep-disorders,3,3,diagnoses
+Vitamin A,vitamin-a,3,3,vitamins
+Dairy Products,dairy-products,3,3,foods-add
+Milk,milk,4,3,dairy-products
+IV/Injection Treatments,iv-treatments,3,3,procedures-devices
+LSD,lsd,4,3,psychedelics
+Iodine,iodine,3,3,minerals
+Antioxidants,antioxidants,3,3,other-supplements
+Weight Loss,weight-loss,3,3,eating-patterns
+Thiamine (B1),thiamine,3,3,vitamins
+Zinc,zinc,3,3,minerals
+Vitamin K2,k2,4,3,vitamin-k
+Vitamin C,vitamin-c,3,3,vitamins
+Benadryl/Diphenhydramine,benadryl,4,3,sleep-aids-otc
+Wellbutrin/Bupropion,wellbutrin,4,3,antidepressants
+Seed Oils Elimination,seed-oils-elimination,3,3,foods-eliminate
+Purpose/Goals/Meaningful Work,purpose-goals,3,3,mental-health
+Financial/Work Changes,financial,3,3,social-relationships
+Medical Devices,medical-devices,3,3,procedures-devices
+Emotional Processing,emotional-processing,3,3,mental-health
+Breathwork/Breathing Techniques,breathwork,3,3,mental-health
+Choline,choline,3,3,amino-acids
+Processed Foods Elimination,processed-elimination,3,3,foods-eliminate
+Spiritual Practice,spiritual-practice,4,3,meditation-spiritual
+Metabolic Disorders,metabolic-disorders,3,3,diagnoses
+Social Environment,social-environment,3,3,social-relationships
+Positive Thinking/Outlook,positive-thinking,4,3,mindset-changes
+Protein (general),protein,4,3,protein-sources
+Walking,walking,4,3,cardiovascular
+Caffeine Changes,caffeine-changes,3,3,substance-changes
+Low Carb,low-carb,4,3,carbohydrates
+Friends/Friendships,friends,4,2,friendships-community
+Friendships/Community,friendships-community,3,2,social-relationships
+Hot Showers,hot-showers,4,2,temperature
+Estradiol,estradiol,4,2,sex-hormones
+Genetic Conditions,genetic-conditions,3,2,diagnoses
+MTHFR Gene Mutation,mthfr,4,2,genetic-conditions
+Low-Dose Naltrexone (LDN),low-dose-naltrexone,4,2,other-prescription
+Digestive Enzymes,digestive-enzymes,3,2,enzymes-proteins
+Nattokinase,nattokinase,4,2,digestive-enzymes
+Iron Infusions/IV,iron-infusions,4,2,iv-treatments
+Gluten/Wheat Intolerance,gluten-intolerance,4,2,food-intolerances
+DMT,dmt,4,2,psychedelics
+Dental Procedures,dental-procedures,3,2,procedures-devices
+CO2 Levels/Ventilation,co2-levels,4,2,air-quality
+Air Quality/Ventilation,air-quality,3,2,environment-location
+Gluten/Wheat Elimination,gluten-elimination,3,2,foods-eliminate
+Autoimmune Conditions,autoimmune,3,2,diagnoses
+Cardio (general),cardio,4,2,cardiovascular
+Lithium (microdose),lithium,3,2,minerals
+OTC Pain Relievers,pain-relievers-otc,3,2,otc-meds
+Digestive/Anti-inflammatory Herbs,digestive-herbs,3,2,herbal-plant
+Tyrosine,tyrosine,3,2,amino-acids
+Antihistamines,antihistamines-otc,3,2,otc-meds
+Calorie Management,calorie-management,3,2,eating-patterns
+Vitamin B6,vitamin-b6,3,2,vitamins
+Mindset Shift,mindset-shift,4,2,mindset-changes
+8+ Hours Sleep,8-hours-sleep,4,2,sleep-duration
+Fish Oil,fish-oil,4,2,omega-3
+Collagen,collagen,3,2,enzymes-proteins
+Mushroom Supplements,mushroom-supplements,3,2,herbal-plant
+Specific Foods,specific-foods,3,2,foods-add
+Adaptogenic Herbs,adaptogens,3,2,herbal-plant
+Deviated Septum Surgery,deviated-septum-surgery,4,2,surgeries
+Dairy/Lactose Intolerance,dairy-intolerance,4,2,food-intolerances
+Deadlifts,deadlifts,4,2,strength-training
+Therapy,therapy,4,2,therapy-counseling
+Therapy/Counseling,therapy-counseling,3,2,mental-health
+Trazodone,trazodone,4,2,sleep-medications
+Prescription Sleep Medications,sleep-medications,3,2,prescription-meds
+Alcohol Elimination,alcohol-elimination,3,2,foods-eliminate
+Pets,pets,3,2,social-relationships
+Personal Development,personal-development,3,2,mental-health
+Relocation/Moving,relocation,3,2,environment-location
+Marriage/Getting Married,marriage,4,2,romantic-relationships
+Sleep Environment,sleep-environment,3,2,sleep
+General Sobriety,sobriety,3,2,substance-changes
+Peptides,peptides,3,2,other-supplements
+Other Medical Procedures,other-procedures,3,2,procedures-devices
+Mind-Body Exercise,mind-body-exercise,3,2,exercise-movement
+Ambitious Goals,ambitious-goals,4,2,purpose-goals
+Money/Financial Improvement,money,4,2,financial
+MCT Oil,mct-oil,3,2,fatty-acids
+Selenium,selenium,3,2,minerals
+Ending Relationships,ending-relationships,3,2,social-relationships
+Reduce Screen Time,reduce-screen-time,3,2,substance-changes
+Cannabis/THC,cannabis,3,2,recreational-illicit
+THC/Cannabis,thc,4,2,cannabis
+Methamphetamine,methamphetamine,4,2,stimulants-illicit
+Salads,salads,4,2,vegetables-greens
+Ritalin,ritalin,4,2,adhd-stimulants
+Electrolytes,electrolytes,3,2,minerals
+Hypoglycemia,hypoglycemia,4,2,metabolic-disorders
+Celiac Disease,celiac,4,2,food-intolerances
+Calcium,calcium,3,2,minerals
+Vegetables (general),vegetables,4,2,vegetables-greens
+Modafinil,modafinil,4,2,adhd-non-stimulants
+ADHD Non-Stimulants,adhd-non-stimulants,3,2,prescription-meds
+Friend Circle/Social Circle,friend-circle,4,2,social-environment
+Lower Sugar,lower-sugar,4,2,sugar-elimination
+Reading Before Bed,reading-before-bed,4,1,sleep-hygiene
+Sleep Hygiene,sleep-hygiene,3,1,sleep
+No Screens Before Bed,no-screens-before-bed,4,1,sleep-hygiene
+Discord/Online Community,discord-community,4,1,friendships-community
+Nature/Outdoors Exposure,nature-outdoors,3,1,environment-location
+Getting Outside,getting-outside,4,1,nature-outdoors
+Liver Transplant,liver-transplant,4,1,surgeries
+Serrapeptase,serrapeptase,4,1,digestive-enzymes
+Vyvanse/Lisdexamfetamine,vyvanse,4,1,adhd-stimulants
+Nicotine,nicotine,3,1,recreational-illicit
+MDMA,mdma,4,1,psychedelics
+Ketamine,ketamine,4,1,psychedelics
+Dental Work (general),dental-work,4,1,dental-procedures
+Heavy Metal Poisoning,heavy-metal-poisoning,4,1,other-diagnoses
+Air Quality Monitor,air-quality-monitor,4,1,air-quality
+Hashimoto's,hashimotos,4,1,autoimmune
+Advil/Ibuprofen,advil,4,1,pain-relievers-otc
+Milk Thistle,milk-thistle,4,1,digestive-herbs
+Alpha-Lipoic Acid,alpha-lipoic-acid,4,1,antioxidants
+Turmeric,turmeric,4,1,digestive-herbs
+Schisandra,schisandra,4,1,digestive-herbs
+Walking Outside,walking-outside,4,1,general-activity
+Boswellia,boswellia,4,1,digestive-herbs
+5-HTP,5-htp,3,1,amino-acids
+TMG (Trimethylglycine),tmg,3,1,amino-acids
+SAM-e,sam-e,3,1,amino-acids
+Histamine Intolerance,histamine-intolerance,4,1,food-intolerances
+Antihistamine (generic),antihistamine,4,1,antihistamines-otc
+Adequate Calorie Intake,adequate-calories,4,1,calorie-management
+Riboflavin (B2),riboflavin,3,1,vitamins
+Biotin,biotin,3,1,vitamins
+Magnesium Threonate,magnesium-threonate,4,1,magnesium
+Collagen Complex,collagen-complex,4,1,collagen
+Magnesium Complex,magnesium-complex,4,1,magnesium
+Mushroom Coffee,mushroom-coffee,4,1,mushroom-supplements
+Dark Chocolate,dark-chocolate,4,1,specific-foods
+Nuts,nuts,4,1,specific-foods
+Ashwagandha,ashwagandha,4,1,adaptogens
+Magnesium Citrate,magnesium-citrate,4,1,magnesium
+Unisom,unisom,4,1,sleep-aids-otc
+Alcohol (as sedative),alcohol-sedatives,3,1,recreational-illicit
+Whiskey (as sedative),whiskey,4,1,alcohol-sedatives
+Nano Hydroxyapatite,nano-hydroxyapatite,4,1,misc-supplements
+Pain/Migraine Medications,pain-medications,3,1,prescription-meds
+Migraine Medication,migraine-medication,4,1,pain-medications
+Not Drinking Wine Daily,not-drinking-wine,4,1,alcohol-elimination
+Chia Seeds,chia-seeds,4,1,misc-supplements
+N24 (Non-24 Sleep Disorder),n24,4,1,sleep-disorders
+Psilocybin/Mushrooms,psilocybin,4,1,psychedelics
+Lactoferrin,lactoferrin,3,1,enzymes-proteins
+Getting a Dog,getting-dog,4,1,pets
+Self-Awareness,self-awareness,4,1,personal-development
+Squats,squats,4,1,strength-training
+Overhead Press (OHP),overhead-press,4,1,strength-training
+Moving to San Francisco,moving-to-sf,4,1,relocation
+Meal Timing,meal-timing,3,1,eating-patterns
+Bedroom Temperature,bedroom-temperature,4,1,sleep-environment
+Eating Earlier in Day,eating-earlier,4,1,meal-timing
+Sports/Recreational Activities,sports-recreation,3,1,exercise-movement
+Skydiving,skydiving,4,1,sports-recreation
+Foam Rolling,foam-rolling,4,1,stretching-mobility
+SS-31,ss-31,4,1,peptides
+Myofascial Release,myofascial-release,4,1,stretching-mobility
+Growing Up/Maturity,growing-up,4,1,personal-development
+Massage/Self-Massage,massage,4,1,stretching-mobility
+Red Light Therapy,red-light-therapy,4,1,other-procedures
+Pilates,pilates,4,1,mind-body-exercise
+CPAP Machine,cpap,4,1,medical-devices
+Amitriptyline,amitriptyline,4,1,antidepressants
+Green Juice,green-juice,4,1,vegetables-greens
+SAD Lights/Light Therapy,sad-lights,4,1,medical-devices
+Feeling/Processing Emotions,feeling-emotions,4,1,emotional-processing
+Lysine,lysine,3,1,amino-acids
+Chamomile,chamomile,4,1,sleep-aids-otc
+Pregnancy,pregnancy,4,1,pregnancy-childbirth
+Pregnancy/Childbirth,pregnancy-childbirth,3,1,procedures-devices
+Testosterone Cypionate,testosterone-cypionate,4,1,sex-hormones
+Divorce,divorce,4,1,ending-relationships
+Apple Cider Vinegar,apple-cider-vinegar,4,1,misc-supplements
+Red Meat,red-meat,4,1,protein-sources
+Weighted Blanket,weighted-blanket,4,1,medical-devices
+Orthopedic Insoles,orthopedic-insoles,4,1,medical-devices
+Mushroom Blend/Complex,mushroom-blend,4,1,mushroom-supplements
+Magnesium Bisglycinate,magnesium-bisglycinate,4,1,magnesium
+Pepcid AC,pepcid,4,1,antihistamines-otc
+Black Seed Oil,black-seed-oil,4,1,misc-supplements
+R-Lipoic Acid,r-lipoic-acid,4,1,antioxidants
+Quitting Cigarettes,quitting-cigarettes,4,1,quit-smoking
+Quit Smoking,quit-smoking,3,1,substance-changes
+Inositol,inositol,3,1,amino-acids
+Lecithin,lecithin,4,1,choline
+CDP-Choline,cdp-choline,4,1,choline
+Getting a Harder Job,harder-job,4,1,financial
+GlyNAC,glynac,3,1,amino-acids
+Sulforaphane,sulforaphane,3,1,amino-acids
+Other OTC Medications,other-otc,3,1,otc-meds
+GABA (supplement),gaba-supplement,4,1,other-otc
+Breakup,breakup,4,1,ending-relationships
+Vitamin E,vitamin-e,3,1,vitamins
+Methylene Blue,methylene-blue,4,1,misc-supplements
+Ondansetron,ondansetron,4,1,other-prescription
+Hydroxyzine,hydroxyzine,4,1,other-prescription
+Kratom,kratom,3,1,herbal-plant
+Methylphenidate,methylphenidate,4,1,adhd-stimulants
+Getting a Cat,getting-cat,4,1,pets
+St. John's Wort,st-johns-wort,3,1,herbal-plant
+Jogging,jogging,4,1,cardiovascular
+Tomatoes,tomatoes,4,1,specific-foods
+Magnesium Cream (topical),magnesium-cream,4,1,magnesium
+Glycine,glycine,3,1,amino-acids
+N-Acetyl L-Tyrosine (NALT),nalt,4,1,tyrosine
+Autism,autism,4,1,other-diagnoses
+Sleep Apnea,sleep-apnea,4,1,sleep-disorders
+Insulin,insulin,4,1,other-prescription
+Lexapro,lexapro,4,1,antidepressants
+Top Surgery,top-surgery,4,1,surgeries
+Vitamin D2,d2,4,1,vitamin-d
+Vitamin K3,k3,4,1,vitamin-k
+Leaving Singapore,leaving-singapore,4,1,relocation
+Moving Countries,moving-countries,4,1,relocation
+Bloodletting/Phlebotomy,bloodletting,4,1,other-procedures
+PCOS,pcos,4,1,autoimmune
+Anticonvulsants,anticonvulsants,3,1,prescription-meds
+Fiber,fiber,3,1,other-supplements
+Diabetes (Type 1),diabetes,4,1,metabolic-disorders
+Asthma,asthma,4,1,other-diagnoses
+NADH,nadh,4,1,cofactors
+Metabolic Cofactors,cofactors,3,1,other-supplements
+Mold Toxicity,mold-toxicity,4,1,other-diagnoses
+Taurine,taurine,3,1,amino-acids
+Meat (general),meat,4,1,protein-sources
+Being Around Positive People,positive-people,4,1,social-environment
+Dating/Romantic Partner,dating,4,1,romantic-relationships
+Armodafinil,armodafinil,4,1,adhd-non-stimulants
+Cold Showers,cold-showers,4,1,temperature
+Quitting Caffeine,quitting-caffeine,4,1,caffeine-changes
+Falling in Love,falling-in-love,4,1,romantic-relationships
+Aspirin,aspirin,4,1,pain-relievers-otc
+Liver (organ meat),liver-organ-meat,4,1,protein-sources
+Royal Jelly,royal-jelly,4,1,misc-supplements
+Buteyko Breathing,buteyko-breathing,4,1,breathwork
+Reducing Caffeine,reducing-caffeine,4,1,caffeine-changes
+Stretching,stretching,4,1,stretching-mobility
+CoQ10,coq10,4,1,antioxidants
+CrossFit,crossfit,4,1,cardiovascular
+Praying the Rosary,rosary,4,1,meditation-spiritual
+Meaningful Work,meaningful-work,4,1,purpose-goals
+No Caffeine After 3pm,no-caffeine-after-3pm,4,1,caffeine-changes
+Morning Sunlight,morning-sunlight,4,1,light-exposure
+Calorie Restriction,calorie-restriction,4,1,calorie-management
+Sun Gazing,sun-gazing,4,1,light-exposure
+Marathon Training,marathon-training,4,1,cardiovascular
+Family,family,3,1,social-relationships
+Having Kids,having-kids,4,1,family
+Greens/Leafy Greens,greens,4,1,vegetables-greens
+Nasal Breathing,nasal-breathing,4,1,breathwork
+Emotional Work,emotional-work,4,1,emotional-processing
+Matcha,matcha,4,1,coffee-caffeine
+Yoga,yoga,4,1,mind-body-exercise
+Somatic/Body Work,somatic-work,4,1,emotional-processing
+Sobriety from Alcohol,sobriety-alcohol,4,1,quit-reduce-alcohol
+Quit/Reduce Alcohol,quit-reduce-alcohol,3,1,substance-changes
+Less Screen Time,less-screen-time,4,1,reduce-screen-time
+Allergy Injections,allergy-injections,4,1,iv-treatments
+Root Canal,root-canal,4,1,dental-procedures
